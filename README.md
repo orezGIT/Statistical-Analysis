@@ -1,1 +1,1 @@
-Using R Studio in analysing various building designs on heating load and cooling load
+Using RStudio to analyze the impact of various building designs on heating and cooling loads.
